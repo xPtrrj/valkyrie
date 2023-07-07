@@ -1,0 +1,4 @@
+// Map Server IP
+// The IP address which clients will use to connect.
+// Set this to what your server's public IP address is.
+map_ip: 3.1.23.100
